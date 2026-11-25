@@ -1,5 +1,5 @@
 # mtm6302-final-dowd0088
-<hr>
+
 F1: Workout Tracking 
 The user can track what weight they lifted and how many sets/reps they 
 did on a certain workout/machine and track it as a reference for how 
