@@ -2,10 +2,10 @@
 
 **Project title:** Fitpulse 
 
-**Who is it for? Describe the people who will use it and when they might need it. **
+**Who is it for? Describe the people who will use it and when they might need it.**
 Anyone who is serious about the gym and fitness in general 
 
-**What will it help them do? What need or problem does it address? **
+**What will it help them do? What need or problem does it address?**
 
 This should help people get in shape without all the stress of tracking steps, workouts and weight on their 
 own. This helps them to have everything in one place that they can refer back too when working out and 
